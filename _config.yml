@@ -1,2 +1,5 @@
 title: D9Lab
 remote_theme:: jekyll-theme-simplex
+url: "https://d9lab.eu.org"
+plugins:
+  - jekyll-sitemap
